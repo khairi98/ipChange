@@ -1,5 +1,5 @@
 # ipChange
-A simple script that, in the context of the the script, changes your IP and perform a request to verify the switch.
+A simple script that, in the context of the script, changes your IP and perform a request to verify the switch.
 
 ## Installing
 ```
